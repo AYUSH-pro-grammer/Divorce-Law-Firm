@@ -17,7 +17,7 @@ const Location = () => {
                 <br />
                 <br />
 <div className="Loction_mpa">
-  <iframe
+  {/* <iframe
     title="Advocate Manju Prajapati Location"
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.717431629988!2d77.33992121193607!3d28.578246675592986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5a7ff8a6fbd%3A0x978177109876815!2sAdvocate%20Manju%20Prajapati!5e0!3m2!1sen!2sin!4v1747897780225!5m2!1sen!2sin"
     width="100%"
@@ -25,7 +25,16 @@ const Location = () => {
     style={{ border: 0 }}
     allowFullScreen=""
     referrerPolicy="no-referrer-when-downgrade"
-  ></iframe>
+  ></iframe> */}
+
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.0501021300333!2d77.4810315758172!3d28.50814028971805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb4c19bfb01b%3A0x727cbceb98094d0a!2sAyushi%20Law%20Firm!5e0!3m2!1sen!2sin!4v1764348795664!5m2!1sen!2sin"
+    width="100%"
+    height="450"
+    style={{ border: 0 }}
+    allowFullScreen=""
+    referrerpolicy="no-referrer-when-downgrade"
+    ></iframe>
 </div>
 
 
