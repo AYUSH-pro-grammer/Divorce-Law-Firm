@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
 
             <div>
-              <a href="tel:+91964382511">
+              <a href="tel:+8377843791">
                 <button>[ Contact Us ]</button>
               </a>
             </div>
