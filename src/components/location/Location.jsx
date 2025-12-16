@@ -36,6 +36,15 @@ COMMING SOON...
     allowFullScreen=""
     referrerpolicy="no-referrer-when-downgrade"
     ></iframe> */}
+
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1070.8341826409746!2d77.4830916036678!3d28.50826007289516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb0f2ac74d3f%3A0x5befebd595958334!2sAM%20Divorce%20Lawyer!5e0!3m2!1sen!2sin!4v1765865536941!5m2!1sen!2sin" 
+    width="100%"
+    height="450"
+    style={{ border: 0 }}
+    allowFullScreen=""
+    referrerpolicy="no-referrer-when-downgrade"
+    ></iframe>
 </div>
 
 
