@@ -17,17 +17,6 @@ const Location = () => {
                 <br />
                 <br />
 <div className="Loction_mpa">
-  {/* <iframe
-    title="Advocate Manju Prajapati Location"
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.717431629988!2d77.33992121193607!3d28.578246675592986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5a7ff8a6fbd%3A0x978177109876815!2sAdvocate%20Manju%20Prajapati!5e0!3m2!1sen!2sin!4v1747897780225!5m2!1sen!2sin"
-    width="100%"
-    height="450"
-    style={{ border: 0 }}
-    allowFullScreen=""
-    referrerPolicy="no-referrer-when-downgrade"
-  ></iframe> */}
-
-COMMING SOON...
   
   {/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.0501021300333!2d77.4810315758172!3d28.50814028971805!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb4c19bfb01b%3A0x727cbceb98094d0a!2sAyushi%20Law%20Firm!5e0!3m2!1sen!2sin!4v1764348795664!5m2!1sen!2sin"
     width="100%"
@@ -38,15 +27,14 @@ COMMING SOON...
     ></iframe> */}
 
 
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1070.8341826409746!2d77.4830916036678!3d28.50826007289516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb0f2ac74d3f%3A0x5befebd595958334!2sAM%20Divorce%20Lawyer!5e0!3m2!1sen!2sin!4v1765865536941!5m2!1sen!2sin" 
-    width="100%"
-    height="450"
-    style={{ border: 0 }}
-    allowFullScreen=""
-    referrerpolicy="no-referrer-when-downgrade"
-    ></iframe>
-</div>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.049955892218!2d77.48110517580048!3d28.50814468971776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ceb35e4b01f37%3A0xa5dff112a4255735!2sAyush%20Law%20firm!5e0!3m2!1sen!2sin!4v1768592322203!5m2!1sen!2sin"
+  width="100%"
+  height="450" 
+  style="border:0;"
+  allowfullscreen="" 
+  loading="lazy" 
+  referrerpolicy="no-referrer-when-downgrade"></iframe>
+              
 
             
             </div>
