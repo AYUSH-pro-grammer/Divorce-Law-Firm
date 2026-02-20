@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer_top">
         <div className="footer_left">
           <h3>Advocate Manju Prajapati</h3>
-          <p className="footer_phone">+91-9643827511 <br> +91-8377843791</p>
+          <p className="footer_phone">+91-9643827511 | +91-8377843791</p>
         </div>
         <div className="footer_right">
           <ul className="footer_links">
